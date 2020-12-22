@@ -3,10 +3,10 @@
 <hr>
 
 <p align=center>
-  <a href="https://github.com/marraleks/github-readme-stats" title="Go to Source">
+  <a href="https://github-readme-stats.vercel.app/api?username=marraleks&show_icons=true&theme=calm" title="Go to Source">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=marraleks&show_icons=true&theme=calm">
   </a>
-  <a href="https://github.com/marraleks/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=marraleks&layout=compact&theme=calm">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marraleks&layout=compact&theme=calm" />
   </a>
 </p>
